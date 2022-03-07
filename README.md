@@ -1,4 +1,4 @@
-# Desafio de Programação CAPGEMINi 02.
+# Desafio de Programação CAPGEMINI 02.
 
 
 
